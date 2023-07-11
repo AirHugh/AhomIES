@@ -17,9 +17,9 @@
     left: 6.25%;
     transform: translate(-50%,-50%);
     color: #1e1e1e;
-    font-size: 92px;
+    font-size: 75px;
     font-weight: 300;
-
+    letter-spacing: 23px;
     text-orientation: upright;  /*字体方向向上*/
     writing-mode: vertical-lr;  /*句子竖直方向*/
 }

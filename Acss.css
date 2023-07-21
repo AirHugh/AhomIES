@@ -120,3 +120,15 @@ p {
 
 }
 
+.csBox {
+    float: left;
+    width: 50%;
+    height: 961px;
+    background-color: #00ff99;
+}
+.csBox2 {
+    float: right;
+    width: 50%;
+    height: 961px;
+    background-color: #9900ff;
+}

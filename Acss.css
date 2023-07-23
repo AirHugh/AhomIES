@@ -4,7 +4,7 @@
 }
 
 .mainBackground {
-    background-color: #e1e1e1;
+    background-color: #00e5ff;
 }
 
 .leftSideFont {
@@ -122,13 +122,13 @@ p {
 
 .csBox {
     float: left;
-    width: 50%;
+    width: 25%;
     height: 961px;
     background-color: #00ff99;
 }
 .csBox2 {
     float: right;
-    width: 50%;
+    width: 75%;
     height: 961px;
-    background-color: #9900ff;
+    background-color: #ff0066;
 }

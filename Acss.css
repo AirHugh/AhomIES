@@ -4,7 +4,7 @@
 }
 
 .mainBackground {
-    background-color: #00e5ff;
+    background-color: #e1e1e1;
 }
 
 .leftSideFont {
@@ -125,15 +125,15 @@ p {
 
 .csBox {
     float: left;
-    width: 25%;
+    width: 30%;
     height: 961px;
-    background-color: #00ff99;
+    background: linear-gradient(-90deg, #9900ff, #ffb3f5);
 }
 .csBox2 {
     float: right;
-    width: 75%;
+    width: 70%;
     height: 961px;
-    background-color: #ff0066;
+    background: linear-gradient(90deg, #9900ff, #0c9);
 }
 .aLink {
     text-decoration: none;
